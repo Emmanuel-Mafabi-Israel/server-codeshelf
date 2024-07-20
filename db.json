@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": "Emmanuel-ife0t",
+      "user_name": "Emmanuel",
+      "user_email": "emmanuel_wendy@mafabi.com",
+      "user_password": "1234",
+      "user_my_books": []
+    },
+    {
+      "id": "Wendy-qowu9",
+      "user_name": "Wendy",
+      "user_email": "wendy_mafabi@outlook.com",
+      "user_password": "1234",
+      "user_my_books": [
+        {
+          "id": "MY-BOOK-[g2t]-[Wendy-qowu9]",
+          "my_books_title": "Programming: Principles and Practice Using C++ - 2nd Edition",
+          "my_books_url": "https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0138308683/ref=sr_1_2_sspa?crid=O5MY1FW3HAF7&dib=eyJ2IjoiMSJ9.dqLFFcUBpOPMmrZiPY2XGVsAozvhYX1s94iZnmxp9GZ5TIDrLRKysPi0OCY4PuYOmfqWOXWx6iaU1iTtJ35K05AubM_CiGPuA-Bsr_boCBK8fqTJWdgcOS0y1Yb8dEOgyoIOsKIOqH8bA39ZYPSCYYtvxdXymPkpwusv4L0v9smCucOlZrZj9rSQiBtZYaHnrIJbuSCgGmOWC_7P6HQYimJ7UNacPIDeloIObEiT-mY.dMZTon3_VVEPYVZy7sMcNvTtAsYZmU-lNcAucmBmmdk&dib_tag=se&keywords=c%2B%2B+programming+Bjarne&qid=1721400111&sprefix=c%2B%2B+programming+bjarne%2Caps%2C407&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+        }
+      ]
+    },
+    {
+      "id": "Mafabi-flcxe",
+      "user_name": "Mafabi",
+      "user_email": "mafabi_israel@outlook.com",
+      "user_password": "12345678",
+      "user_my_books": [
+        {
+          "id": "MY-BOOK-[m96]-[Mafabi-flcxe]",
+          "my_books_title": "Programming: Principles and Practice Using C++ - 2nd Edition",
+          "my_books_url": "https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0138308683/ref=sr_1_2_sspa?crid=O5MY1FW3HAF7&dib=eyJ2IjoiMSJ9.dqLFFcUBpOPMmrZiPY2XGVsAozvhYX1s94iZnmxp9GZ5TIDrLRKysPi0OCY4PuYOmfqWOXWx6iaU1iTtJ35K05AubM_CiGPuA-Bsr_boCBK8fqTJWdgcOS0y1Yb8dEOgyoIOsKIOqH8bA39ZYPSCYYtvxdXymPkpwusv4L0v9smCucOlZrZj9rSQiBtZYaHnrIJbuSCgGmOWC_7P6HQYimJ7UNacPIDeloIObEiT-mY.dMZTon3_VVEPYVZy7sMcNvTtAsYZmU-lNcAucmBmmdk&dib_tag=se&keywords=c%2B%2B+programming+Bjarne&qid=1721400111&sprefix=c%2B%2B+programming+bjarne%2Caps%2C407&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+        },
+        {
+          "id": "MY-BOOK-[542]-[Mafabi-flcxe]",
+          "my_books_title": "Beginning C++ Game Programming",
+          "my_books_url": "https://www.amazon.com/dp/1835081746/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1835081746&pd_rd_w=cK6ya&content-id=amzn1.sym.7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_p=7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_r=8KWHYGMR82CS2NXRBR13&pd_rd_wg=zGGmg&pd_rd_r=cf82515b-ee87-4d33-a075-529463138c0d&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw"
+        },
+        {
+          "id": "MY-BOOK-[7ta]-[Mafabi-flcxe]",
+          "my_books_title": "Python Programming Language Pamphlet – May 1, 2019",
+          "my_books_url": "https://www.amazon.com/Python-Programming-Language-Berajah-Jayne/dp/1423241886/ref=sr_1_5?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-5"
+        },
+        {
+          "id": "MY-BOOK-[hhf]-[Mafabi-flcxe]",
+          "my_books_title": "C++ Concurrency in Action - 2nd Edition",
+          "my_books_url": "https://www.amazon.com/dp/1617294691/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1617294691&pd_rd_w=1nxq3&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=D8BWV414VCXMR7Y99C3M&pd_rd_wg=2NMh4&pd_rd_r=f4ea0b6f-b434-4727-b8cb-366c382dc31a&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM"
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "book_title": "C++ Programming Language - 4th Edition",
+      "book_link": "https://www.amazon.com/Programming-Language-hardcover-4th/dp/0321958322/ref=zg_bs_g_9045760011_d_sccl_5/137-4213424-7822117?psc=1",
+      "book_image": "https://m.media-amazon.com/images/I/71uN0nVAkvL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "2",
+      "book_title": "Programing: Principles and Practice Using C++ - 2nd Edition",
+      "book_link": "https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0138308683/ref=sr_1_2_sspa?crid=O5MY1FW3HAF7&dib=eyJ2IjoiMSJ9.dqLFFcUBpOPMmrZiPY2XGVsAozvhYX1s94iZnmxp9GZ5TIDrLRKysPi0OCY4PuYOmfqWOXWx6iaU1iTtJ35K05AubM_CiGPuA-Bsr_boCBK8fqTJWdgcOS0y1Yb8dEOgyoIOsKIOqH8bA39ZYPSCYYtvxdXymPkpwusv4L0v9smCucOlZrZj9rSQiBtZYaHnrIJbuSCgGmOWC_7P6HQYimJ7UNacPIDeloIObEiT-mY.dMZTon3_VVEPYVZy7sMcNvTtAsYZmU-lNcAucmBmmdk&dib_tag=se&keywords=c%2B%2B+programming+Bjarne&qid=1721400111&sprefix=c%2B%2B+programming+bjarne%2Caps%2C407&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+      "book_image": "https://m.media-amazon.com/images/I/81GrtjeOPQL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "3",
+      "book_title": "C++ Primer - 5th Edition",
+      "book_link": "https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=pd_sim_d_sccl_2_3/137-4213424-7822117?pd_rd_w=vImaU&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=2B5ZJDJQNB26E8STNEZY&pd_rd_wg=nUIEi&pd_rd_r=78f13f9e-3210-48cf-8295-74e0f6320ee6&pd_rd_i=0321714113&psc=1",
+      "book_image": "https://m.media-amazon.com/images/I/71vil4NdEPL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "4",
+      "book_title": "Beginning C++ Game Programming",
+      "book_link": "https://www.amazon.com/dp/1835081746/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1835081746&pd_rd_w=cK6ya&content-id=amzn1.sym.7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_p=7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_r=8KWHYGMR82CS2NXRBR13&pd_rd_wg=zGGmg&pd_rd_r=cf82515b-ee87-4d33-a075-529463138c0d&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+      "book_image": "https://m.media-amazon.com/images/I/81vZ9vb47JL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "6",
+      "book_title": "Beginning C++ Through Game Programming - 3rd Edition",
+      "book_link": "https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420/ref=sr_1_6?crid=1VNH9K3NSGIBY&dib=eyJ2IjoiMSJ9.gTF9dPHYNc97W0PEygBH6-61KBZmLcULJmbBft8ykUJ0nKwXjxioqLMS3HyO6omgu4PkApfBMJIXA48evcL4Pxo1ArtxbW8XVcTsB65ggWrlKHVa61XRhUoIkacGSbSwUO-LzotucXWpg0u9765emn7URYFBA1esYK1gUJ_daafKVInNrKJ0GivrpSRjiWdeT7W-FRNnCLNQEvRA4Xv4clfSamhNMV3gfqNvpFWNfhc.alNtaKmre1yHrAqdCo2nCIyjMM81NpDG8e_1AhiXlAU&dib_tag=se&keywords=c%2B%2B+programming+Game&qid=1721399906&sprefix=c%2B%2B+programming+g%2Caps%2C557&sr=8-6",
+      "book_image": "https://m.media-amazon.com/images/I/717c-XSQrjL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "7",
+      "book_title": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
+      "book_link": "https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876",
+      "book_image": "https://m.media-amazon.com/images/I/712Qlq3iHcL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "8",
+      "book_title": "Python Programming",
+      "book_link": "https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-1",
+      "book_image": "https://m.media-amazon.com/images/I/81ZBWeKoZVL._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "9",
+      "book_title": "Python Programming Language Pamphlet – May 1 , 2019",
+      "book_link": "https://www.amazon.com/Python-Programming-Language-Berajah-Jayne/dp/1423241886/ref=sr_1_5?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-5",
+      "book_image": "https://m.media-amazon.com/images/I/711x9iHSu3L._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "10",
+      "book_title": "Python Programming for Beginners, 2024",
+      "book_link": "https://www.amazon.com/Python-Programming-Beginners-Mastering-Hands/dp/B0BTRRLCYZ/ref=sr_1_6?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-6",
+      "book_image": "https://m.media-amazon.com/images/I/61zuoW+bh8L._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "11",
+      "book_title": "Fluent Python: Clear, Concise, and Effective Programming - 2nd Edition",
+      "book_link": "https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_7?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-7",
+      "book_image": "https://m.media-amazon.com/images/I/81OvszBEdhL._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "12",
+      "book_title": "Python Programming: An Introduction to Computer Science, Fourth Edition",
+      "book_link": "https://www.amazon.com/Python-Programming-Introduction-Computer-Science/dp/1590282973/ref=sr_1_10?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-10",
+      "book_image": "https://m.media-amazon.com/images/I/51rfhldg1iL._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "13",
+      "book_title": "Learning Python: Powerful Object-Oriented Programming - 5th Edition",
+      "book_link": "https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=sr_1_8?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-8",
+      "book_image": "https://m.media-amazon.com/images/I/91RcdlPx1CL._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "14",
+      "book_title": "Python 3: The Comprehensive Guide to Python Programming",
+      "book_link": "https://www.amazon.com/Python-Comprehensive-Guide-Hands-Programming/dp/149322302X/ref=sr_1_9?crid=1RKBVG28LG74Q&dib=eyJ2IjoiMSJ9.4MVZaOYSFaCq0lw3rm2Gha6XQGj5yE243z_67DaKp66ewdXf7b5hCR9MIoBE4Y-zzii3VqEDnFT-wuySS8pqdTiOVWq9WEFTUEtA9-aEBlySwmCK6K34CnTfcByFxFEfHvIFLP1qfnVzCi4t6fPMEmpyq5_vZkOEQMMqx8Eow2tZ7YSeyFkE2Y6F0gU3497lv9vAqKQLM4c2-HiZ4Yb5dYzrVjisPAiHqQSjcOb8zl4.uSiOHPxrapCSxq8rOMiqmfhbmWeOkxIEsyRZNxlSsD8&dib_tag=se&keywords=Python+Programming+books&qid=1721373721&s=books&sprefix=python+programming+books%2Cstripbooks-intl-ship%2C341&sr=1-9",
+      "book_image": "https://m.media-amazon.com/images/I/71-r3eWCrFL._SY385_.jpg",
+      "book_language": "Python"
+    },
+    {
+      "id": "9391",
+      "book_title": "C++ Pocket Reference: C++ - 1st Edition",
+      "book_link": "https://www.amazon.com/C-Pocket-Reference-Kyle-Loudon/dp/0596004966/ref=sr_1_39?crid=QQRT41Q9WPQF&dib=eyJ2IjoiMSJ9.VIER8VSvv-qmqNXoCCcCzxEw-HlmdNmXg9JDLlGQFeSR9STjtmGdXcxJ4dKwH4m5pBZgE4LlHg_DQ4t-WxO12Hu03cUUR0lQCe7xXPP2g01tF7pNEFzXuRO4YSDmpRsSVa2o1eGSC_hGsGPhE73fOyMnJHzeV7-j38WwTIA_jaNIUskjTzTzdjJ6xOk3oVezsz650M0cq9zbpfweLGzybGTTFjQ_3Y3y55w-80p-Kbf_0bv2kd0b-1buwSzPZAjq9Nr-LV7PqUgTLeM6As8ZMrysGQ9pHzCk07HS1I5M4bg.eFfYFpRQA1kFT3oq6FSjuQvQwEMSmFr7UEk0YHYcsNk&dib_tag=se&keywords=c%2B%2B+programming&qid=1721399845&sprefix=C%2B%2B%2Caps%2C313&sr=8-39",
+      "book_image": "https://m.media-amazon.com/images/I/71Zshc5-ttL._SY385_.jpg",
+      "book_language": "C++"
+    },
+    {
+      "id": "1e93",
+      "book_title": "C++ Concurrency in Action - 2nd Edition",
+      "book_link": "https://www.amazon.com/dp/1617294691/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1617294691&pd_rd_w=1nxq3&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=D8BWV414VCXMR7Y99C3M&pd_rd_wg=2NMh4&pd_rd_r=f4ea0b6f-b434-4727-b8cb-366c382dc31a&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+      "book_image": "https://m.media-amazon.com/images/I/71WDl8EY-kL._SY342_.jpg",
+      "book_language": "C++"
+    }
+  ]
+}
